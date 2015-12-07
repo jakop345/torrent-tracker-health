@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://git.popcorntime.io/popcorntime/torrent-tracker-health.git"
+    "url": "https://github.com/butterproject/torrent-tracker-health.git"
   },
   "license": "MIT",
   "dependencies": {
@@ -23,8 +23,8 @@
   "_npmVersion": "2.5.1",
   "_nodeVersion": "0.12.1",
   "_npmUser": {
-    "name": "popcorntime",
-    "email": "press@popcorntime.io"
+    "name": "butterroject",
+    "email": "npm@btn.sh"
   },
   "dist": {
     "shasum": "8aa4ea0f8c63c493986e0cac9f3ffc92b6fe0b25",
@@ -32,8 +32,8 @@
   },
   "maintainers": [
     {
-      "name": "popcorntime",
-      "email": "press@popcorntime.io"
+      "name": "butterproject",
+      "email": "npm@btn.sh"
     }
   ],
   "directories": {},
