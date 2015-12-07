@@ -1,11 +1,11 @@
 {
   "name": "torrent-tracker-health",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Get health info about a torrent file or magnet link",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/butterproject/torrent-tracker-health.git"
+    "url": "git+https://github.com/butterproject/torrent-tracker-health.git"
   },
   "license": "MIT",
   "dependencies": {
@@ -18,8 +18,8 @@
   "gitHead": "469edb8bf6bb6854dbd828326bb1e27a56c8c21b",
   "_id": "torrent-tracker-health@0.1.4",
   "scripts": {},
-  "_shasum": "8aa4ea0f8c63c493986e0cac9f3ffc92b6fe0b25",
-  "_from": "torrent-tracker-health@*",
+  "_shasum": "d9ff48a7333deab2186c375d500fa886ff7c6c8f",
+  "_from": "torrent-tracker-health",
   "_npmVersion": "2.5.1",
   "_nodeVersion": "0.12.1",
   "_npmUser": {
@@ -33,10 +33,14 @@
   "maintainers": [
     {
       "name": "butterproject",
-      "email": "npm@btn.sh"
+      "email": "npm@butterproject.org"
     }
   ],
   "directories": {},
-  "_resolved": "https://registry.npmjs.org/torrent-tracker-health/-/torrent-tracker-health-0.1.4.tgz",
-  "readme": "ERROR: No README data found!"
+  "_resolved": "file:torrent-tracker-health",
+  "readme": "ERROR: No README data found!",
+  "bugs": {
+    "url": "https://github.com/butterproject/torrent-tracker-health/issues"
+  },
+  "homepage": "https://github.com/butterproject/torrent-tracker-health#readme"
 }
